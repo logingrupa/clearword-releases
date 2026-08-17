@@ -9,4 +9,4 @@ Live human interpretation streaming for churches and multilingual events. Your i
 - Website: https://clearword.kingdom.lv/
 
 Built by disciples, for churches — out of love for Jesus.
-A ministry of [Spirit and Truth city church](https://satchurch.lv/), Lielvārde, Latvia. Crafted by [LOGINGRUPA](https://logingrupa.lv/).
+A ministry of [Spirit and Truth city church](https://satchurch.lv/), Lielvārde, Latvia. Crafted by church members of [LOGINGRUPA Ltd.](https://logingrupa.lv/).
