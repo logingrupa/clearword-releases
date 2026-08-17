@@ -8,5 +8,5 @@ Live human interpretation streaming for churches and multilingual events. Your i
 - Installed apps update automatically
 - Website: https://clearword.kingdom.lv/
 
-Built by disciples, for churches — with hearts poured out for Jesus.
+Built by disciples, for churches — out of love for Jesus.
 A ministry of [Spirit and Truth city church](https://satchurch.lv/), Lielvārde, Latvia. Crafted by [LOGINGRUPA](https://logingrupa.lv/).
